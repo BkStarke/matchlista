@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brottningsläger Matchschema</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .back-link {
+            display: block;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .individual-schedule {
+            background-color: #eaf7fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .match-number {
+            width: 50px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="main-schedule">
+	<img style="float:right" src="logo.png" height="140" width="140">
+        <h1>BK Starke träningsläger matchschema</h1>
+        <div id="time-container">Laddar tid...</div>
+        <p>Klicka på ett namn för att se den personens hela matchschema.</p>
+
+<div id="table-container">Laddar tabell...</div>
+        
+    </div>
+    
+    <div id="individual-schedule" style="display: none;">
+        <h2 id="schedule-title">Person X:s Matcher</h2>
+        <div class="individual-schedule" id="schedule-content"></div>
+        <a href="#" onclick="showMainSchedule()" class="back-link">← Tillbaka till hela schemat</a>
+    </div>
+    
+    <script>
+        let scheduleData = {};
+
+    fetch('tabell.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('table-container').innerHTML = data;
+        })
+        .catch(error => {
+            console.error('Fel vid laddning:', error);
+        });
+
+
+    fetch('tid.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('time-container').innerHTML = data;
+        })
+        .catch(error => {
+            console.error('Fel vid laddning:', error);
+        });
+
+
+
+
+    // Match data for each wrestler
+    fetch('json.json')
+        .then(response => response.json())
+        .then(data => {
+            scheduleData = data;
+        })
+        .catch(error => {
+            console.error('Fel vid laddning av schemadata:', error);
+        });
+
+    function showSchedule(personId) {
+        document.getElementById('main-schedule').style.display = 'none';
+        document.getElementById('individual-schedule').style.display = 'block';
+        
+        const title = document.getElementById('schedule-title');
+        title.textContent = `${personId}:s Matcher`;
+        
+        const content = document.getElementById('schedule-content');
+        content.innerHTML = '';
+        
+        const matches = scheduleData[personId];
+        if (matches && matches.length > 0) {
+            const table = document.createElement('table');
+            const header = table.createTHead();
+            const headerRow = header.insertRow();
+            headerRow.insertCell().textContent = 'Match';
+            headerRow.insertCell().textContent = 'Tid';
+            headerRow.insertCell().textContent = 'Motståndare';
+            headerRow.insertCell().textContent = 'Matta';
+            
+            const tbody = table.createTBody();
+            matches.forEach(match => {
+                const row = tbody.insertRow();
+                row.insertCell().textContent = match.match;
+                row.insertCell().textContent = match.time;
+                row.insertCell().textContent = match.opponent;
+                row.insertCell().textContent = match.mat;
+            });
+            
+            content.appendChild(table);
+        } else {
+            content.textContent = 'Inga matcher hittades för denna person.';
+        }
+    }
+    
+    function showMainSchedule() {
+        document.getElementById('main-schedule').style.display = 'block';
+        document.getElementById('individual-schedule').style.display = 'none';
+    }
+</script>
+</body>
+</html>
