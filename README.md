@@ -2,6 +2,7 @@
 GitHub Repo för BK Starkes träningsläger system och hemsida.  
 Denna hemsidan och hur man använder den är open source och du får gärna lov att använda den för ditt eget träningsläger.  
 Hör gärna av er om ni använt det och ifall ni har förslag på förbättringar.  
+*Uppdaterad senast under träningslägret 7e september 2025*
 
 ## Hur man använder det ##
 
@@ -42,3 +43,6 @@ Under så välj hur lång vilotid du vill ha mellan matcherna, om du vill ha vil
 Sedan tryck på `Ändra HTML` och så kommer filen att skapa/uppdatera `json.json`, `tabell.html` och `tid.html`.  
 Sedan är hemsidan klar och du kan hosta den.  
 
+### Ska fixas till nästa gång ###  
+Måste fixa lottningen så att det är mindre sannolikhet att en person går flera matcher i rad.  
+Be om att anmälningarna ska ske till ansvarig mejl i en excel format så att det sker smidigare.  
