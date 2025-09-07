@@ -46,3 +46,4 @@ Sedan är hemsidan klar och du kan hosta den.
 ### Ska fixas till nästa gång ###  
 Måste fixa lottningen så att det är mindre sannolikhet att en person går flera matcher i rad.  
 Be om att anmälningarna ska ske till ansvarig mejl i en excel format så att det sker smidigare.  
+Fixa så att en person inte möter flera personer i rad, även om det är matcher mellan.  
