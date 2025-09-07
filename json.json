@@ -1,0 +1,5010 @@
+{
+    "Mattias (Sparta)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        }
+    ],
+    "Alex (Vellinge BK)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        }
+    ],
+    "Eric (BK Starke)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        }
+    ],
+    "Linus (BK Starke)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        }
+    ],
+    "Frank (Limhamns Bk)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Nikita (Vellinge BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Joel (Svedala BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Nikita (Vellinge BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Raman (BK Starke)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Nikita (Vellinge BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Joel (Svedala BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Raman (BK Starke)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Raman (BK Starke)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Joel (Svedala BK)",
+            "mat": "Matta 3"
+        }
+    ],
+    "Nikita (Vellinge BK)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Frank (Limhamns Bk)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Joel (Svedala BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Joel (Svedala BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Raman (BK Starke)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Joel (Svedala BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Raman (BK Starke)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Frank (Limhamns Bk)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Frank (Limhamns Bk)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Raman (BK Starke)",
+            "mat": "Matta 3"
+        }
+    ],
+    "Josef (Malmö Tigers)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Victor (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Oscar (Svedala BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Frank (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Albert (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Saleh (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Valentino (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Edi (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Loke (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Saleh (Sparta)",
+            "mat": "Matta 4"
+        }
+    ],
+    "Victor (Vellinge BK)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Josef (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Albert (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Loke (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Valentino (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Edi (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Hjalmar (Värnamo)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Saleh (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Frank (BK Starke)",
+            "mat": "Matta 4"
+        }
+    ],
+    "David (Malmö Tigers)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Ramazon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Carl (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Adam (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Elvin (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Vladimir (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Ramazon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Leon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Leo (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Lukas (Svedala BK)",
+            "mat": "Matta 5"
+        }
+    ],
+    "Ramazon (Malmö Tigers)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "David (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Elvin (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Leo (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Lukas (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "David (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Nils (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Leon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Frank (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Carl (Malmö Tigers)",
+            "mat": "Matta 5"
+        }
+    ],
+    "Hollie (BK Starke)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        }
+    ],
+    "Matilda (Höörs BK)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        }
+    ],
+    "Marcus (Vellinge BK)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Amin (Sjöbo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Zakaria (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Jammaluddin (Värnamo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Amin (Sjöbo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Jacob (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Jammaluddin (Värnamo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Jacob (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Omar (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Yones (Limhamns BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Yones (Limhamns BK)",
+            "mat": "Matta 7"
+        }
+    ],
+    "Amin (Sjöbo)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Jacob (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Omar (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Zakaria (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Jacob (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Yones (Limhamns BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Omar (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Jammaluddin (Värnamo)",
+            "mat": "Matta 7"
+        }
+    ],
+    "Hannes (Vellinge BK)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Sixten (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Benjamin (Malmö Tigers)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Benjamin (Malmö Tigers)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Yasin (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Rasmus (Värnamo)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Noar (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Noar (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Viggo (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Yasin (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Sixten (BK Starke)",
+            "mat": "Matta 8"
+        }
+    ],
+    "Sixten (BK Starke)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Rasmus (Värnamo)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Yasin (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Rasmus (Värnamo)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Benjamin (Malmö Tigers)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Benjamin (Malmö Tigers)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Noar (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Viggo (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        }
+    ],
+    "Albenita (BK Starke)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        }
+    ],
+    "Pamela (Vellinge BK)": [
+        {
+            "match": "1",
+            "time": "13:30-13:33",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        }
+    ],
+    "Karl (BK Starke)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        }
+    ],
+    "Misha (Roskilde)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        }
+    ],
+    "Hugo (Eslöv)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        }
+    ],
+    "Alex (Sparta)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        }
+    ],
+    "Nicklas (Malmö Tigers)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Lukas (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Loa (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Loa (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Isak (Värnamo)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Julius (Sparta)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Jonas (Roskilde)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Jonas (Roskilde)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Julius (Sparta)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Lukas (BK Ore)",
+            "mat": "Matta 3"
+        }
+    ],
+    "Lukas (BK Ore)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Nicklas (Malmö Tigers)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Jonas (Roskilde)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Julius (Sparta)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Julius (Sparta)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Isak (Värnamo)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Loa (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Loa (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Nicklas (Malmö Tigers)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Isak (Värnamo)",
+            "mat": "Matta 3"
+        }
+    ],
+    "Davyd (Vellinge BK)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Albert (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Valentino (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Saleh (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Frank (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Edi (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Oscar (Svedala BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Loke (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Hjalmar (Värnamo)",
+            "mat": "Matta 4"
+        }
+    ],
+    "Albert (Malmö Tigers)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Davyd (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Josef (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Victor (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Saleh (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Frank (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Hjalmar (Värnamo)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Oscar (Svedala BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Valentino (BK Starke)",
+            "mat": "Matta 4"
+        }
+    ],
+    "Frank (Vellinge BK)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Carl (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Adam (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Nils (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Leo (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Leon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Elvin (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Vladimir (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Ramazon (Malmö Tigers)",
+            "mat": "Matta 5"
+        }
+    ],
+    "Carl (Malmö Tigers)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Frank (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Leo (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "David (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Leon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Adam (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Lukas (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Nils (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Ramazon (Malmö Tigers)",
+            "mat": "Matta 5"
+        }
+    ],
+    "Moa (BK Starke)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        }
+    ],
+    "Gabriella (Svedala BK)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        }
+    ],
+    "Miri (Sparta)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Omar (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Yones (Limhamns BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Jammaluddin (Värnamo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Zakaria (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Amin (Sjöbo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Omar (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Zakaria (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Jacob (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Amin (Sjöbo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Jacob (Svedala BK)",
+            "mat": "Matta 7"
+        }
+    ],
+    "Omar (Svedala BK)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Yones (Limhamns BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Jacob (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Amin (Sjöbo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Jammaluddin (Värnamo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Yones (Limhamns BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Zakaria (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Zakaria (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Amin (Sjöbo)",
+            "mat": "Matta 7"
+        }
+    ],
+    "Noar (BK Starke)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Rasmus (Värnamo)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Viggo (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Yasin (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Viggo (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Yasin (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Sixten (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Benjamin (Malmö Tigers)",
+            "mat": "Matta 8"
+        }
+    ],
+    "Rasmus (Värnamo)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Noar (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Sixten (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Viggo (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Sixten (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Benjamin (Malmö Tigers)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Viggo (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Benjamin (Malmö Tigers)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Yasin (Svedala BK)",
+            "mat": "Matta 8"
+        }
+    ],
+    "Teodora (Malmö Tigers)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        }
+    ],
+    "Maria (Svedala BK)": [
+        {
+            "match": "2",
+            "time": "13:34-13:37",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        }
+    ],
+    "Alexander (Svedala BK)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        }
+    ],
+    "Wilmer (Limhamns BK)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Mattheuz (BK Starke)",
+            "mat": "Matta 1"
+        }
+    ],
+    "Maximilian (BK Starke)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        }
+    ],
+    "Joel (Svedala BK)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Frank (Limhamns Bk)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Nikita (Vellinge BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Nikita (Vellinge BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Nikita (Vellinge BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Raman (BK Starke)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Raman (BK Starke)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Frank (Limhamns Bk)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Raman (BK Starke)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Frank (Limhamns Bk)",
+            "mat": "Matta 3"
+        }
+    ],
+    "Frank (BK Starke)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Hjalmar (Värnamo)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Josef (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Oscar (Svedala BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Davyd (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Albert (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Edi (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Saleh (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Victor (Vellinge BK)",
+            "mat": "Matta 4"
+        }
+    ],
+    "Hjalmar (Värnamo)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Frank (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Oscar (Svedala BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Albert (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Saleh (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Loke (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Victor (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Edi (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Davyd (Vellinge BK)",
+            "mat": "Matta 4"
+        }
+    ],
+    "Lukas (Svedala BK)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Adam (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Leo (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Nils (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Ramazon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Carl (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Vladimir (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "David (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Leon (Malmö Tigers)",
+            "mat": "Matta 5"
+        }
+    ],
+    "Adam (Malmö Tigers)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Lukas (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "David (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Elvin (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Vladimir (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Frank (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Carl (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Nils (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Leo (Svedala BK)",
+            "mat": "Matta 5"
+        }
+    ],
+    "Sami (Höörs BK)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Lovisa (BK Starke)",
+            "mat": "Matta 6"
+        }
+    ],
+    "Zakaria (Svedala BK)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Jacob (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Jammaluddin (Värnamo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Yones (Limhamns BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Jammaluddin (Värnamo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Amin (Sjöbo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Omar (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Omar (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Yones (Limhamns BK)",
+            "mat": "Matta 7"
+        }
+    ],
+    "Benjamin (Malmö Tigers)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Yasin (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Sixten (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Rasmus (Värnamo)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Sixten (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Rasmus (Värnamo)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Viggo (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Noar (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Yasin (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        }
+    ],
+    "Liva (Sparta)": [
+        {
+            "match": "3",
+            "time": "13:38-13:41",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Olivia (Svedala BK)",
+            "mat": "Matta 9"
+        }
+    ],
+    "Mattheuz (BK Starke)": [
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Misha (Roskilde)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Karl (BK Starke)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Alexander (Svedala BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Wilmer (Limhamns BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Alex (Vellinge BK)",
+            "mat": "Matta 1"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Mattias (Sparta)",
+            "mat": "Matta 1"
+        }
+    ],
+    "Roman (BK Starke)": [
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Elio (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        }
+    ],
+    "Loa (BK Ore)": [
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Nicklas (Malmö Tigers)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Nicklas (Malmö Tigers)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Isak (Värnamo)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Isak (Värnamo)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Julius (Sparta)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Lukas (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Jonas (Roskilde)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Lukas (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Jonas (Roskilde)",
+            "mat": "Matta 3"
+        }
+    ],
+    "Valentino (BK Starke)": [
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Davyd (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Edi (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Oscar (Svedala BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Josef (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Loke (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Victor (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Saleh (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Albert (Malmö Tigers)",
+            "mat": "Matta 4"
+        }
+    ],
+    "Leo (Svedala BK)": [
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Carl (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Elvin (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Ramazon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Lukas (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Frank (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Adam (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Vladimir (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "David (Malmö Tigers)",
+            "mat": "Matta 5"
+        }
+    ],
+    "Lovisa (BK Starke)": [
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Moa (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Gabriella (Svedala BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Hollie (BK Starke)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Sami (Höörs BK)",
+            "mat": "Matta 6"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Matilda (Höörs BK)",
+            "mat": "Matta 6"
+        }
+    ],
+    "Jacob (Svedala BK)": [
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Yones (Limhamns BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Zakaria (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Amin (Sjöbo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Omar (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Jammaluddin (Värnamo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Amin (Sjöbo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Jammaluddin (Värnamo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        }
+    ],
+    "Yones (Limhamns BK)": [
+        {
+            "match": "4",
+            "time": "13:42-13:45",
+            "opponent": "Jacob (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Omar (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Zakaria (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Jammaluddin (Värnamo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Jammaluddin (Värnamo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Omar (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Amin (Sjöbo)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Zakaria (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        }
+    ],
+    "Oscar (Svedala BK)": [
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Josef (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Loke (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Valentino (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Frank (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Edi (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Hjalmar (Värnamo)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Albert (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Davyd (Vellinge BK)",
+            "mat": "Matta 4"
+        }
+    ],
+    "Leon (Malmö Tigers)": [
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Nils (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Vladimir (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Carl (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Frank (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "David (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Elvin (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Ramazon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Lukas (Svedala BK)",
+            "mat": "Matta 5"
+        }
+    ],
+    "Nils (Vellinge BK)": [
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Leon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Vladimir (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Frank (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Lukas (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Elvin (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Adam (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Ramazon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Carl (Malmö Tigers)",
+            "mat": "Matta 5"
+        }
+    ],
+    "Jammaluddin (Värnamo)": [
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Miri (Sparta)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Zakaria (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Marcus (Vellinge BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Zakaria (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Yones (Limhamns BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Jacob (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Omar (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Yones (Limhamns BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Jacob (Svedala BK)",
+            "mat": "Matta 7"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Amin (Sjöbo)",
+            "mat": "Matta 7"
+        }
+    ],
+    "Olivia (Svedala BK)": [
+        {
+            "match": "5",
+            "time": "13:46-13:49",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Maria (Svedala BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Albenita (BK Starke)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Teodora (Malmö Tigers)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Pamela (Vellinge BK)",
+            "mat": "Matta 9"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Liva (Sparta)",
+            "mat": "Matta 9"
+        }
+    ],
+    "Elio (Sparta)": [
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Alex (Sparta)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Eric (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Roman (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Hugo (Eslöv)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Linus (BK Starke)",
+            "mat": "Matta 2"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Maximilian (BK Starke)",
+            "mat": "Matta 2"
+        }
+    ],
+    "Edi (Sparta)": [
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Valentino (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Loke (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Oscar (Svedala BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Davyd (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Josef (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Frank (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Victor (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Hjalmar (Värnamo)",
+            "mat": "Matta 4"
+        }
+    ],
+    "Yasin (Svedala BK)": [
+        {
+            "match": "6",
+            "time": "13:50-13:53",
+            "opponent": "Sixten (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Viggo (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Noar (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Benjamin (Malmö Tigers)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Viggo (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "26",
+            "time": "15:10-15:13",
+            "opponent": "Noar (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "39",
+            "time": "16:02-16:05",
+            "opponent": "Rasmus (Värnamo)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Benjamin (Malmö Tigers)",
+            "mat": "Matta 8"
+        }
+    ],
+    "Jonas (Roskilde)": [
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Lukas (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Julius (Sparta)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Julius (Sparta)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Isak (Värnamo)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Isak (Värnamo)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Nicklas (Malmö Tigers)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Loa (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Nicklas (Malmö Tigers)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Loa (BK Ore)",
+            "mat": "Matta 3"
+        }
+    ],
+    "Loke (BK Starke)": [
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Oscar (Svedala BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Saleh (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Edi (Sparta)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Victor (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Valentino (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "33",
+            "time": "15:38-15:41",
+            "opponent": "Hjalmar (Värnamo)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "35",
+            "time": "15:46-15:49",
+            "opponent": "Davyd (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Josef (Malmö Tigers)",
+            "mat": "Matta 4"
+        }
+    ],
+    "Elvin (Malmö Tigers)": [
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Ramazon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Leo (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Adam (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "David (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "25",
+            "time": "15:06-15:09",
+            "opponent": "Nils (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Vladimir (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Frank (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Leon (Malmö Tigers)",
+            "mat": "Matta 5"
+        }
+    ],
+    "Viggo (Svedala BK)": [
+        {
+            "match": "7",
+            "time": "13:54-13:57",
+            "opponent": "Noar (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Yasin (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Rasmus (Värnamo)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Noar (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "23",
+            "time": "14:58-15:01",
+            "opponent": "Yasin (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "29",
+            "time": "15:22-15:25",
+            "opponent": "Rasmus (Värnamo)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Sixten (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Benjamin (Malmö Tigers)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Winston (Vellinge BK)",
+            "mat": "Matta 8"
+        }
+    ],
+    "Isak (Värnamo)": [
+        {
+            "match": "8",
+            "time": "13:58-14:01",
+            "opponent": "Loa (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Nicklas (Malmö Tigers)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "15",
+            "time": "14:26-14:29",
+            "opponent": "Loa (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Jonas (Roskilde)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Jonas (Roskilde)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Lukas (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Julius (Sparta)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Julius (Sparta)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Lukas (BK Ore)",
+            "mat": "Matta 3"
+        }
+    ],
+    "Saleh (Sparta)": [
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Loke (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Josef (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Davyd (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Albert (Malmö Tigers)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Hjalmar (Värnamo)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Frank (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Victor (Vellinge BK)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Valentino (BK Starke)",
+            "mat": "Matta 4"
+        },
+        {
+            "match": "44",
+            "time": "16:22-16:25",
+            "opponent": "Josef (Malmö Tigers)",
+            "mat": "Matta 4"
+        }
+    ],
+    "Winston (Vellinge BK)": [
+        {
+            "match": "9",
+            "time": "14:02-14:05",
+            "opponent": "Rasmus (Värnamo)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "11",
+            "time": "14:10-14:13",
+            "opponent": "Noar (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Viggo (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Sixten (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "22",
+            "time": "14:54-14:57",
+            "opponent": "Noar (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "24",
+            "time": "15:02-15:05",
+            "opponent": "Rasmus (Värnamo)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Hannes (Vellinge BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "32",
+            "time": "15:34-15:37",
+            "opponent": "Yasin (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Viggo (Svedala BK)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Sixten (BK Starke)",
+            "mat": "Matta 8"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Benjamin (Malmö Tigers)",
+            "mat": "Matta 8"
+        }
+    ],
+    "Julius (Sparta)": [
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Jonas (Roskilde)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "12",
+            "time": "14:14-14:17",
+            "opponent": "Lukas (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Jonas (Roskilde)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "16",
+            "time": "14:30-14:33",
+            "opponent": "Nicklas (Malmö Tigers)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "18",
+            "time": "14:38-14:41",
+            "opponent": "Loa (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "21",
+            "time": "14:50-14:53",
+            "opponent": "Lukas (BK Ore)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Isak (Värnamo)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "31",
+            "time": "15:30-15:33",
+            "opponent": "Isak (Värnamo)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "37",
+            "time": "15:54-15:57",
+            "opponent": "Nicklas (Malmö Tigers)",
+            "mat": "Matta 3"
+        }
+    ],
+    "Vladimir (Malmö Tigers)": [
+        {
+            "match": "10",
+            "time": "14:06-14:09",
+            "opponent": "Leon (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "14",
+            "time": "14:22-14:25",
+            "opponent": "Adam (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "17",
+            "time": "14:34-14:37",
+            "opponent": "Nils (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "20",
+            "time": "14:46-14:49",
+            "opponent": "David (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "28",
+            "time": "15:18-15:21",
+            "opponent": "Elvin (Malmö Tigers)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "36",
+            "time": "15:50-15:53",
+            "opponent": "Frank (Vellinge BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "38",
+            "time": "15:58-16:01",
+            "opponent": "Leo (Svedala BK)",
+            "mat": "Matta 5"
+        },
+        {
+            "match": "41",
+            "time": "16:10-16:13",
+            "opponent": "Lukas (Svedala BK)",
+            "mat": "Matta 5"
+        }
+    ],
+    "Raman (BK Starke)": [
+        {
+            "match": "13",
+            "time": "14:18-14:21",
+            "opponent": "Nikita (Vellinge BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "19",
+            "time": "14:42-14:45",
+            "opponent": "Nikita (Vellinge BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "27",
+            "time": "15:14-15:17",
+            "opponent": "Frank (Limhamns Bk)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "30",
+            "time": "15:26-15:29",
+            "opponent": "Joel (Svedala BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "34",
+            "time": "15:42-15:45",
+            "opponent": "Joel (Svedala BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "40",
+            "time": "16:06-16:09",
+            "opponent": "Frank (Limhamns Bk)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "42",
+            "time": "16:14-16:17",
+            "opponent": "Frank (Limhamns Bk)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "43",
+            "time": "16:18-16:21",
+            "opponent": "Joel (Svedala BK)",
+            "mat": "Matta 3"
+        },
+        {
+            "match": "45",
+            "time": "16:26-16:29",
+            "opponent": "Nikita (Vellinge BK)",
+            "mat": "Matta 3"
+        }
+    ]
+}
