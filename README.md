@@ -49,3 +49,4 @@ Be om att anmälningarna ska ske till ansvarig mejl i en excel format så att de
 Fixa så att en person inte möter flera personer i rad, även om det är matcher mellan.  
 Programera om så att det blir så jämnt avstånd mellan matcherna som möjligt.  
 Implementera ett system för att uppdatera matcherna on the fly.  
+En sök funktion så man kan söka efter brottare längt upp p sidan.  
